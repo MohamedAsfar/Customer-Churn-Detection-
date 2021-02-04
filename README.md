@@ -112,12 +112,12 @@ Predictive Analytics use churn prediction models that predict customer churn by 
 
 ## Model Selection
 
-| Model  | Accuracy |
+| Model  | Accuracy | Precision Score | Recall Score |
 | ------------- | ------------- |
-| Artificial Neural Network  | 93.48%  |
-| Random Forest  | 94.91%  |
-| Logistic Regression  | 90.62%  |
-| Decision Tree  | 94.17%  |
+| Artificial Neural Network  | 93.48%  | 78.47%  | 76.69%  |
+| Random Forest  | 94.91%  | 90.51%  | 74.43%  |
+| Logistic Regression  | 90.62%  | 74.08%  | 59.22%  |
+| Decision Tree  | 94.17%  | 81.93%  | 79.28%  |
 
 ## Conclusion
 
