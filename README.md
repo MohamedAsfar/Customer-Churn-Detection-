@@ -80,10 +80,10 @@ The Bank dataset is collected from Kaggle.com . The dataset consists of 10127 ro
 
 ### Points to Note
 
--Among 10127 customers, 1628 customers have left the bank which indicates 16.08% churn rate in the bank
--The credit cards are categorized into four groups namely Blue, Gold, Silver and Platinum with Blue being the most.
--The customers were more attracted during week 36 which denotes that the bank might have given extra coupons, gifts during this time
--Age is found to be normally distributed
+- Among 10127 customers, 1628 customers have left the bank which indicates 16.08% churn rate in the bank
+- The credit cards are categorized into four groups namely Blue, Gold, Silver and Platinum with Blue being the most.
+- The customers were more attracted during week 36 which denotes that the bank might have given extra coupons, gifts during this time
+- Age is found to be normally distributed
 
 
 ## Data Partition
