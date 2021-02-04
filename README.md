@@ -121,5 +121,8 @@ Predictive Analytics use churn prediction models that predict customer churn by 
 
 ## Conclusion
 
+![Random Forest](https://user-images.githubusercontent.com/68263684/106872551-abe27180-6690-11eb-8d9c-c42807c37b6b.png)
+
+From the above curve, it is clear that Random Forest is the most accurate model with an accuracy of 94.91%. 
 ---
 [Back To The Top](#Customer-Churn-Detection)
