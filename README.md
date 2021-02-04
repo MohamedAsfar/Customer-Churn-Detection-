@@ -133,7 +133,7 @@ Predictive Analytics uses churn prediction models that predict customer churn by
 
 ## Business Insights
 
-A lot of companies pay lip-service to the concept of creating a customer-centric culture in the organization. But real change comes when you put resources behind it, measure it and share the results across the organization. One highly effective idea is to connect compensation to important customer experience metrics such as churn rate. This creates an organization-wide focus on the issue. The developed Machine Learning model predicts the churn rate for the custoomers leaving the bank. So the bank must use customer journey analytics to monitor these KPIs in real-time and over the long term through dashboards. 
+A lot of companies pay lip-service to the concept of creating a customer-centric culture in the organization. But real change comes when you put resources behind it, measure it and share the results across the organization. One highly effective idea is to connect compensation to important customer experience metrics such as churn rate. This creates an organization-wide focus on the issue. The developed Machine Learning model predicts the churn rate for the customers leaving the bank. So the bank must use customer journey analytics to monitor these KPIs in real-time and over the long term through dashboards. 
 
 
 ## Conclusion
