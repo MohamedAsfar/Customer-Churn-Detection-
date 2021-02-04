@@ -95,6 +95,8 @@ We partitioned our data into Training and Test sets. The training partition whic
 
 ## Feature Engineering
 
+![FE 1](https://user-images.githubusercontent.com/68263684/106865893-07a8fc80-6689-11eb-93e1-13f8b85c0008.png)
+
 Predictive Analytics use churn prediction models that predict customer churn by assessing their propensity of risk to churn. In order to do find the correlation between the different attributes, a correlation matrix is calculated. Feature Engineering should be performed by crating the correct dataset and choosing the right attributes. Since this problem is based on a binary value (0 or 1), a prediction model can be created based on Decision Tree, Random Forest, Logistic Regression and Artificial neural network which can diffuse multicollinearity. 
 
 #### Methods Used
