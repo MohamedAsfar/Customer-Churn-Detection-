@@ -9,7 +9,8 @@
 ### Table of Contents
 You're sections headers will be used to reference location of destination.
 
-- [Introduction](#Introduction)
+- [Define](#Define)
+- [Discover](#Discover)
 - [Exploratory Data Analysis](#Exploratory-Data-Analysis)
 - [Data Partition](#Data-Partition)
 - [Feature Engineering](#Feature-Engineering)
@@ -87,7 +88,10 @@ The Bank dataset is collected from Kaggle.com . The dataset consists of 10127 ro
 - The credit cards are categorized into four groups namely Blue, Gold, Silver and Platinum with Blue being the most.
 - The customers were more attracted during week 36 which denotes that the bank might have given extra coupons, gifts during this time
 - Age is found to be normally distributed
-
+- The higher they spend annually, the customers are more likely to remain
+- After 2-3 months of inactivity, the customers are more likely to leave
+- The higher the credit limit is, the customers are more likely to remain
+- Almost all churned customers used their cards below 100 times
 
 ## Data Partition
 
