@@ -50,9 +50,34 @@ The Bank dataset is collected from Kaggle.com . The dataset consists of 10127 ro
 
 ## EXPLORATORY DATA ANALYSIS
 
-1. Exisitng VS Attrited Customers
+- Exisitng VS Attrited Customers
 
 ![EDA 1](https://user-images.githubusercontent.com/68263684/106864030-98320d80-6686-11eb-817c-6742bc6ccc38.png)
+
+- Gender
+
+![EDA 2](https://user-images.githubusercontent.com/68263684/106864406-0f67a180-6687-11eb-80d1-8a47a30171a0.png)
+
+- Card Category
+
+![EDA 4](https://user-images.githubusercontent.com/68263684/106864525-3b832280-6687-11eb-9be4-039991573571.png)
+
+- Income Category
+
+![EDA 5](https://user-images.githubusercontent.com/68263684/106864602-5786c400-6687-11eb-9407-a63516c7654a.png)
+
+- Age Distribution
+
+![EDA 6](https://user-images.githubusercontent.com/68263684/106864721-7edd9100-6687-11eb-8ad2-9caa796e160b.png)
+
+- Months on book
+
+![EDA 7](https://user-images.githubusercontent.com/68263684/106864798-961c7e80-6687-11eb-854b-abc79b44f58f.png)
+
+- Eduaction Level
+
+![EDA 9](https://user-images.githubusercontent.com/68263684/106864999-cf54ee80-6687-11eb-9aaf-872212a2a259.png)
+
 
 
 ## Data Partition
