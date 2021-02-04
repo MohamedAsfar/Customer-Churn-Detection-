@@ -17,6 +17,7 @@ You're sections headers will be used to reference location of destination.
 - [Data Partition](#Data-Partition)
 - [Methods Used](#Methods-Used)
 - [Model Selection](#Model-Selection)
+- [Business Insights](#Business-Insights)
 - [Conclusion](#Conclusion)
 
 ---
