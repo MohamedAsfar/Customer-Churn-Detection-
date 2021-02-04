@@ -131,11 +131,17 @@ Predictive Analytics uses churn prediction models that predict customer churn by
 | Logistic Regression  | 90.62%  | 74.08%  | 59.22%  |
 | Decision Tree  | 94.17%  | 81.93%  | 79.28%  |
 
+## Business Insights
+
+A lot of companies pay lip-service to the concept of creating a customer-centric culture in the organization. But real change comes when you put resources behind it, measure it and share the results across the organization. One highly effective idea is to connect compensation to important customer experience metrics such as churn rate. This creates an organization-wide focus on the issue. The developed Machine Learning model predicts the churn rate for the custoomers leaving the bank. So the bank must use customer journey analytics to monitor these KPIs in real-time and over the long term through dashboards. 
+
+
 ## Conclusion
 
 ![Random Forest](https://user-images.githubusercontent.com/68263684/106872551-abe27180-6690-11eb-8d9c-c42807c37b6b.png)
 
 From the above curve, it is clear that Random Forest is the most accurate model with an accuracy of 94.91%. 
+To reduce customer churn and become customer-obsessed is a technological, organizational and cultural shift. It requires consistent effort and focus over a period of time. The results may not be immediate but they are decidedly sweet. The developed Random Forest Machine Learning algorithitm helps you identify problems and at-risk customers, discover profitable customers, build quantitative links and help communicate with customers in a relevant, personalized manner.
 
 ---
 [Back To The Top](#Customer-Churn-Detection)
