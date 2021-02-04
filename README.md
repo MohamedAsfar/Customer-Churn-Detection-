@@ -11,8 +11,8 @@ You're sections headers will be used to reference location of destination.
 
 - [Introduction](#Introduction)
 - [Exploratory Data Analysis](#Exploratory-Data-Analysis)
-- [Data Partition](#Data Partition)
-- [Feature Engineering](#Feature Engineering)
+- [Data Partition](#Data-Partition)
+- [Feature Engineering](#Feature-Engineering)
 - [Methods Used](#Methods Used)
 
 ---
@@ -67,7 +67,7 @@ Predictive Analytics use churn prediction models that predict customer churn by 
 - Logistic Regression
 - Decision Tree 
 
-[Back To The Top](#read-me-template)
+[Back To The Top](#Customer-Churn-Detection)
 
 ---
 
