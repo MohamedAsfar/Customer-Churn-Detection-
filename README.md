@@ -3,7 +3,6 @@
 
 ![Churn](https://user-images.githubusercontent.com/68263684/106863485-d975ed80-6685-11eb-8af8-e44ce13f3e84.png)
 
-> This is a ReadMe template to help save you time and effort.
 
 ---
 
@@ -11,7 +10,7 @@
 You're sections headers will be used to reference location of destination.
 
 - [Introduction](#Introduction)
-- [Exploratory Data Analysis](#Exploratory Data Analysis)
+- [Exploratory Data Analysis](#Exploratory-Data-Analysis)
 - [Data Partition](#Data Partition)
 - [Feature Engineering](#Feature Engineering)
 - [Methods Used](#Methods Used)
