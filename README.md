@@ -50,6 +50,9 @@ The Bank dataset is collected from Kaggle.com . The dataset consists of 10127 ro
 
 ## EXPLORATORY DATA ANALYSIS
 
+1. Exisitng VS Attrited Customers
+
+![EDA 1](https://user-images.githubusercontent.com/68263684/106864030-98320d80-6686-11eb-817c-6742bc6ccc38.png)
 
 
 ## Data Partition
