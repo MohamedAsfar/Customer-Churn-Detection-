@@ -104,7 +104,7 @@ Predictive Analytics use churn prediction models that predict customer churn by 
 - Logistic Regression
 - Decision Tree 
 
-[Back To The Top](#Customer-Churn-Detection)
+
 
 ---
 
@@ -120,4 +120,4 @@ Predictive Analytics use churn prediction models that predict customer churn by 
 ## Conclusion
 
 ---
-
+[Back To The Top](#Customer-Churn-Detection)
