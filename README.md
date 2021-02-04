@@ -13,7 +13,10 @@ You're sections headers will be used to reference location of destination.
 - [Exploratory Data Analysis](#Exploratory-Data-Analysis)
 - [Data Partition](#Data-Partition)
 - [Feature Engineering](#Feature-Engineering)
-- [Methods Used](#Methods Used)
+- [Data Partition](#Data-Partition)
+- [Methods Used](#Methods-Used)
+- [Model Selection](#Model-Selection)
+- [Conclusion](#Conclusion)
 
 ---
 
