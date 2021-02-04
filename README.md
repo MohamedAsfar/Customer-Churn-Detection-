@@ -110,7 +110,7 @@ We partitioned our data into Training and Test sets. The training partition whic
 
 ![FE 1](https://user-images.githubusercontent.com/68263684/106865893-07a8fc80-6689-11eb-93e1-13f8b85c0008.png)
 
-Predictive Analytics uses churn prediction models that predict customer churn by assessing their propensity of risk to churn. To do find the correlation between the different attributes, a correlation matrix is calculated. Feature Engineering should be performed by creating the correct dataset and choosing the right attributes. Since this problem is based on a binary value (0 or 1), a prediction model can be created based on a Decision Tree, Random Forest, Logistic Regression, and Artificial neural network which can diffuse multicollinearity. Before that the categorical variables are converted into numerical varibables and Standard Scaling is done so that all the features contribute equally to the result
+Predictive Analytics uses churn prediction models that predict customer churn by assessing their propensity of risk to churn. To do find the correlation between the different attributes, a correlation matrix is calculated. Feature Engineering should be performed by creating the correct dataset and choosing the right attributes. Since this problem is based on a binary value (0 or 1), a prediction model can be created based on a Decision Tree, Random Forest, Logistic Regression, and Artificial neural network which can diffuse multicollinearity. Before that the categorical variables are converted into numerical varibables and Standard Scaling is done so that all the features contributeto the result without any noise.
 
 #### Methods Used
 
