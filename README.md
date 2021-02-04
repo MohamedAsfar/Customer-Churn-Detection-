@@ -82,6 +82,14 @@ The Bank dataset is collected from Kaggle.com . The dataset consists of 10127 ro
 
 ![EDA 9](https://user-images.githubusercontent.com/68263684/106864999-cf54ee80-6687-11eb-9aaf-872212a2a259.png)
 
+- Months Inactive
+
+![EDA 10](https://user-images.githubusercontent.com/68263684/106935707-ef60ce00-66d8-11eb-8a6d-37d053cb02d2.png)
+
+- No of Transactions
+
+![EDA 11](https://user-images.githubusercontent.com/68263684/106936238-92194c80-66d9-11eb-85e1-2704e068c736.png)
+
 ### Points to Note
 
 - Among 10127 customers, 1628 customers have left the bank which indicates a 16.08% churn rate in the bank
